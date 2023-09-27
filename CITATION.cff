@@ -1,0 +1,33 @@
+# YAML 1.2
+# Metadata for citation of this software according to the CFF format (https://citation-file-format.github.io/)
+#
+---
+title: "UFAB-587"
+abstract: "The University of Florida Aging Brain Template of 587 Older Adults"
+authors:
+- family-names: "Indahlastari"
+  given-names: "Aprinda"
+- family-names: "Albizu"
+  given-names: "Alejandro"
+  orcid: "https://orcid.org/0000-0003-2727-6616"
+- family-names: "O'Shea"
+  given-names: "Andrew"
+- family-names: "Forbes"
+  given-names: "Megan"
+- family-names: "Nissim"
+  given-names: "Nicole"
+- family-names: "Kraft"
+  given-names: "Jessica"
+- family-names: "Evangelista"
+  given-names: "Nicole"
+- family-names: "Hausman"
+  given-names: "Hanna"
+- family-names: "Woods"
+  given-names: "Adam"
+date-released: 2020-02-20
+version: "1.0"
+license: "GPL-3.0"
+repository-code: "https://github.com/aa14av/UFAB-587/"
+cff-version: "1.2.0"
+message: "If you use this software, please cite it using these metadata."
+...
